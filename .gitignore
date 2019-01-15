@@ -63,4 +63,5 @@ typings/
 # dependendies
 /node_modules
 
-
+/.idea
+.project
